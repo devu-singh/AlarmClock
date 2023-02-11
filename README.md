@@ -3,7 +3,7 @@ alarm_clock by use html,css,vanilla js
 It is developed to create a soothing Experience with powerful features and clean interface.
 
 Problem Statement
-Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any css framework like Bootstrap).
+Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript 
 
 Features Required
 Clock face
